@@ -1,0 +1,12 @@
+h1{
+    font-size: 24px;
+}
+h1,h2{
+    color: darkgray;
+}
+p{
+    font-style: italic;
+}
+li{
+    color: blue;
+}
