@@ -341,7 +341,7 @@ header{
   position: absolute;
   z-index: 0;
 }
-.a{
+.subsription-container{
   display: flex;
   flex-direction: row;
   margin-top: 40px;
